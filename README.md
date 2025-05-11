@@ -17,7 +17,8 @@ The dataset was sourced from **Kaggle**, a reputable platform for open datasets 
 ## 📊 Dashboard
 
 ### **Evision Motors Benchmarking Report Dashboard**  
-![Dashboard 5](https://github.com/user-attachments/assets/ac548020-fef1-4128-a0fa-0a525e70360b)
+![Dashboard 5](https://github.com/user-attachments/assets/4c641a84-240e-4882-8d62-f191a9c4503c)
+
 
 
 ## 📌 Observations & Insights
